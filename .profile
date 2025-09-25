@@ -2,7 +2,6 @@
 source "$HOME/.alias"
 
 if [[ "$OSTYPE" == "darwin"* ]]; then
-    export XDG_RUNTIME_DIR="$DARWIN_USER_TEMP_DIR"
     source "$HOME/.macos_alter"
     eval "$(/opt/homebrew/bin/brew shellenv)"
     eval "$(/opt/homebrew/bin/brew shellenv)"
