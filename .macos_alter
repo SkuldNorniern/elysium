@@ -1,4 +1,4 @@
 
-export XDG_RUNTIME_DIR="$DARWIN_USER_TEMP_DIR"
+export XDG_RUNTIME_DIR="$HOME/Library/Caches"
 
 alias nproc="sysctl -n hw.physicalcpu"
