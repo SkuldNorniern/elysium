@@ -10,5 +10,7 @@
 !.config/
 !.cargo/
 !.ssh/
+
 !.profile
 !.alias
+!.macos_alter

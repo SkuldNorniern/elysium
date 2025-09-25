@@ -1,0 +1,4 @@
+
+export XDG_RUNTIME_DIR="$DARWIN_USER_TEMP_DIR"
+
+alias nproc="sysctl -n hw.physicalcpu"
