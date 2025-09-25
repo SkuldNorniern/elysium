@@ -12,5 +12,6 @@
 !.ssh/
 
 !.profile
+!.zprofile
 !.alias
 !.macos_alter
