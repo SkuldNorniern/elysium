@@ -1,4 +1,5 @@
 
 export XDG_RUNTIME_DIR="$HOME/Library/Caches"
+export PINENTRY_LOC="/opt/homebrew/bin/pinentry-mac"
 
 alias nproc="sysctl -n hw.physicalcpu"

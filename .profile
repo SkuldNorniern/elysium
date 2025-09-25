@@ -1,6 +1,8 @@
 # Custom Setup
 source "$HOME/.alias"
 
+export PINENTRY_LOC="/usr/bin/pinentry-gtk"
+
 if [[ "$OSTYPE" == "darwin"* ]]; then
     source "$HOME/.macos_alter"
     eval "$(/opt/homebrew/bin/brew shellenv)"
