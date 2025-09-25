@@ -2,7 +2,9 @@
 
 !.gitignore
 
+!setting-up-gpg.md
 !README.md
+
 !LICENSE
 
 !.config/
