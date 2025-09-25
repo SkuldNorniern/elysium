@@ -7,4 +7,5 @@
 
 !.config/
 !.cargo/
-
+!.ssh/
+!.profile
