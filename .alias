@@ -1,2 +1,15 @@
 alias ls="eza --color auto --icons"
+alias ll='eza -l --color=auto --icons'
+alias la='eza -a --color=auto --icons'
+alias lt='eza --color=auto --icons -T --git-ignore'
+
+alias g='git'
+alias nv='nvim'
+
+alias vnim='nvim'
+alias vnmi='nvim'
+alias nivm='nvim'
+
+alias vi='nvim'
+alias vim='nvim'
 
