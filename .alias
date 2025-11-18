@@ -13,3 +13,4 @@ alias nivm='nvim'
 alias vi='nvim'
 alias vim='nvim'
 
+alias docker=podman
