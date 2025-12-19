@@ -4,6 +4,7 @@ alias la='eza -a --color=auto --icons'
 alias lt='eza --color=auto --icons -T --git-ignore'
 
 alias g='git'
+alias gg='serie'
 alias nv='nvim'
 
 alias vnim='nvim'
